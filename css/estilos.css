@@ -9,9 +9,9 @@ body {
 h3 {
   padding: 0px 0px 0px 15px; }
 
-.portada1 {
-  background: #a8a5a5;
-  width: 100%; }
+.portada {
+  display: block;
+  margin: auto; }
 
 .pp {
   padding: 15px 5px 15px 15px; }
