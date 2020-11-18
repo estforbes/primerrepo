@@ -1,0 +1,71 @@
+* {
+  margin: 0px;
+  padding: 0px; }
+
+body {
+  margin: 0px;
+  padding: 0px; }
+
+h3 {
+  padding: 0px 0px 0px 15px; }
+
+.portada1 {
+  background: #a8a5a5;
+  width: 100%; }
+
+.pp {
+  padding: 15px 5px 15px 15px; }
+
+.nav {
+  background: #940606;
+  width: 100%; }
+  .nav .nav-link {
+    color: #fff;
+    font-size: 20px; }
+
+#carouselExampleControls {
+  padding: 0px 0px 15px 0px; }
+
+.imgins1 {
+  padding: 25px 25px; }
+
+.imgins {
+  padding: 35px 35px;
+  transition: all 3s; }
+
+.imgins:hover {
+  height: 300px;
+  width: 300px; }
+
+.noticiass {
+  padding: 15px 10px; }
+
+.imgnoti {
+  padding: 10px 10px 10px 10px;
+  width: 650px; }
+
+.col {
+  padding: 25px 15px 0px 15px; }
+
+.concejoabierto {
+  padding: 25px; }
+
+.mapa {
+  padding: 25px; }
+
+input {
+  transition: all 2s; }
+
+input:focus {
+  width: 200px;
+  font-size: 24px; }
+
+.noticia, .noticia--nueva {
+  width: 300px;
+  font-size: 15px;
+  font-family: Roboto; }
+
+footer {
+  background: #940606;
+  width: 100%;
+  color: #fff; }
